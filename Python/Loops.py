@@ -63,3 +63,11 @@ from operator import truediv
 #     if i == 5:
 #         result = False
 
+
+# fruits = [["Apple", "Banana", "Cherry"], ["mango", "orange"]]
+#
+# for fruit in fruits:
+#     for item in fruit:
+#         print(item)
+
+
