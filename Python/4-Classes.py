@@ -5,7 +5,7 @@ class Animal:
         self.name = Animal
 
     def run(self):
-        print(f"My {Animal} can run")
+        print(f"My {self.name} can run")
     def eat(self):
         print(f"My {Animal} can eat")
 
